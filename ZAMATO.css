@@ -1,0 +1,318 @@
+.main-container  {
+    background-color: #d7e6e3;
+} 
+
+.background-img {
+    background-image: url("backgroud-img.png");
+    height: 475px;
+    background-size: cover;
+    border-radius: 10px;
+    margin: 0px;
+}
+
+.navbar {
+    height: 72px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0px 20px 0px 20px;
+}
+
+.get-app {
+    font-size: 1rem;
+    width: 50%;
+    padding-left: 50px;
+}
+
+.get-app i {
+    padding-right: 5px;
+}
+
+.explore {
+    font-size: 20px;
+    width: 50%;
+    display: flex;
+    justify-content: flex-end;
+    justify-content: space-evenly;
+}
+
+.explore a {
+    text-decoration: none;
+    color: white;
+} 
+
+.logo {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+.main-logo {
+    background-image: url("zamato-img.webp");
+    background-size: cover;
+    height: 65px;
+    width: 307px;
+}
+
+.heading {
+    color: white;
+    font-family: okra;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+h1 {
+    width: 680px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.search-container {
+    display: flex;
+    justify-content: center;
+    font-size: ;
+}
+
+.search {
+    height: 53px;
+    width: 700px;
+    display: flex;
+    align-items: center;
+    background-color: white;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.search-opt {
+    width: 40%;
+}
+
+.search-opt i {
+    padding: 0px 10px 0px 10px;
+}
+
+.search-text {
+    width: 60%;
+}
+
+.input-1 {
+    border: none;
+    font-size: 16px;
+}
+
+.input-2 {
+    width: 80%;
+    border: none;
+    font-size: 16px;
+}
+
+.search-container i {
+    font-size: 18px;
+    color: red;
+}
+
+.select {
+    border: none;
+}
+
+.food-1 {
+    height: 260px;
+    width: 600px;
+    background-color: wheat;
+    margin: 50px 0px 0px 150px ;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.food-1:hover {
+    transition: 0.25s ease-out ;
+}
+
+.img {
+    background-image: url("second-img.jpeg");
+    background-size: cover;
+    background-size: contain;
+    height: 150px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+p {
+    font-size: 20px;
+    padding-left: 20px;
+    font-weight: bold;
+}
+
+.second {
+    font-size: 18px;
+    color: rgb(183, 144, 6);
+}
+
+.text-1 {
+    width: 600px;
+    height: 45px;
+    font-size: 1rem;
+    padding: 0px;
+    margin-top: 100px;
+    margin-left: 150px;
+    font-size: larger;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.locality {
+    height: 80px;
+    width: 360px;
+    border: 1px solid;
+    padding: 5px;
+    box-shadow: 5px 10px gray; 
+    margin-left: 150px;
+    margin-top: 50px;
+    display: flex;
+    text-align: center;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.first {
+    padding: 0px 150px 0px 10px;
+}
+
+.select-1 {
+    border: none;
+    background-color: #d7e6e3;
+}
+
+.login-phone {
+    height: 500px;
+    width: 1050px;
+    margin-top: 170px;
+    display: flex;
+    margin-left: 300px;
+    justify-content: flex-start;
+}
+
+.image {
+    height: 450px;
+    width: 350px;
+    background-image: url("third-img.png");
+    background-size: cover;
+}
+
+.login-page {
+    height: 450px;
+    width: 700px;
+    justify-content: flex-start;
+}
+
+.note {
+    height: 0.7rem;
+}
+
+.email {
+    font-size: 20px;
+    font-weight: 700;
+    margin-right: 15px;
+    margin-left: 13px;
+    margin-top: 20px;
+}
+
+.phone {
+    font-size: 20px;
+    font-weight: 700;
+    margin-left: 10px;
+}
+
+.email-2 {
+    height: 30px;
+    width: 300px;
+    border: 0.1rem solid rgb(207,207,207);
+    margin-left: 13px;
+    margin-top: 20px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+
+}
+.submit-1 {
+    font-size: 18px;
+    font-weight: 700;
+    height: 30px;
+    width: 150px;
+    border: 0.1rem solid rgb(207,207,207);
+    background-color: red;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+.dwn-app {
+    font-size: 16px;
+    margin-top: 50px;
+}
+
+.download-here {
+    height: 45px;
+    width: 500px;
+}
+
+/* .box1 {
+    height: 45px;
+    width: 200px;
+    margin-left: 13px;
+    background-image: url("google\ playl\ logo.png");
+    background-size: contain;
+}
+
+.box2 {
+    height: 45px;
+    width: 200px;
+    background-image: url("app\ store\ logo.png");
+    background-size: cover;
+} */
+
+.footer {
+    height: 400px;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #F8F8F8;
+}
+
+.footer p {
+    font-size: 17px;
+    color: #696969;
+}
+
+.footer h4 {
+    font-size: 22px;
+}
+
+.copy-right {
+    margin: 0px 40px 0px 40px;
+}
+
+.copy-right p {
+    font-size: 15px;
+}
+
+.hello {
+    margin-top: 20px;
+    height: 40px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.hello i {
+    padding-right: 5px;
+    color: red;
+}
+
